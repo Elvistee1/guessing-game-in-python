@@ -1,4 +1,4 @@
-__author__ = 'Thabo'
+__author__ = 'Elvistee'
 
 secret_word = "banana"
 guess = ""
